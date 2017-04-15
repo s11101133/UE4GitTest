@@ -5,7 +5,7 @@
 
 INT32 UMyBlueprintFunctionLibrary::OneLeftShift(INT32 flag)
 {
-	return 1 << flag;
+	return 2 << flag;
 }
 
 
